@@ -1,4 +1,4 @@
-# Gibhub Finder
+# GitHub Finder
 This is practice project to find github user using gitpub api.
 - To get the result used `fetch()`  
 - To show the result  
